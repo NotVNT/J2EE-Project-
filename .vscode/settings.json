@@ -1,0 +1,11 @@
+{
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  }
+}
+
+
